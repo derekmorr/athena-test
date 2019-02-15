@@ -5,6 +5,7 @@ authors = ["Derek Morr <derekmorr@psu.edu>"]
 edition = "2018"
 
 [dependencies]
+futures = "0.1.25"
 rusoto_core = "0.36.0"
 rusoto_athena = "0.36.0"
 env_logger = "0.6.0"
