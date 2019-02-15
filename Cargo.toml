@@ -1,0 +1,7 @@
+[package]
+name = "athena-test"
+version = "0.1.0"
+authors = ["Derek Morr <derekmorr@psu.edu>"]
+edition = "2018"
+
+[dependencies]
